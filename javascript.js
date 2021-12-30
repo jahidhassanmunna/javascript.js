@@ -1,4 +1,9 @@
+//https://github.com/jahidhassanmunna/javascript.js/blob/main/javascript.js
+
+
+
 //kilometerToMeter
+
 function kilometerToMeter(digit){
         
     var meter=digit*1000;
